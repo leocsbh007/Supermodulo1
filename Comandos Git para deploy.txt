@@ -1,0 +1,16 @@
+git status # Verifica quais arquivois estão no repositorio local e não esta no repositorio remoto
+
+git add . # Adiciona todos os arquivo do diretorio local para o repositorio remoto
+
+git commit -m 'Abrir o arquivo HTML' 
+
+git push # Sobe os arvquivos para o diretorio remoto
+
+#Link SSh com o git
+ssh-keygen -t ed25519 -C "leonardo.castrodesouza@gmail.com"
+
+
+https://dontpad.com/supermoduloraul7
+link gerar ssh: https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
